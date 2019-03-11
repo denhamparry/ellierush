@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://tender-hermann-4bbb4c.netlify.com/* https://ellierush.co.uk/:splat 301!
